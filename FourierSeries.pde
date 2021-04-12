@@ -20,7 +20,7 @@ void draw()
   image(canvas, 0, 0);
   translate(width/3, height/2);
   
-  //Number of epicircels
+  //Number of epicircles
   int numCircles = 1;
   
   //Various variables needed
